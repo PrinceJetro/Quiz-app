@@ -1,5 +1,5 @@
 let quizData = [ 
-    { question: "How old is Jetro", a : "12", b : "15", c : "19", d : "21", correct: "c" }, 
+    { question: "How old is Jetro", a : "18", b : "19", c : "20", d : "21", correct: "c" }, 
     { question: "When is his date of birth", a : "12 Dec 2000", b : "15 Dec 2002", c : "19 Nov 2002", d : "21 Dec 2002", correct: "d" },
      { question: " Who is your  fav superhero?", a : "Loki", b : "Ironman", c : "Thor", d : "Captain America", correct: "c" },
       { question: " What do i do with my free time when i have no plans?", a : "Play games", b : "Watch Movies", c : "Code", d : "Sleep", correct: "a" }, 
